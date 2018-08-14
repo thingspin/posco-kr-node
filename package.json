@@ -1,0 +1,12 @@
+{
+    "name": "posco-kr",
+    "description": "Posco Image Process Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "posco-kr-flow.json",
+            "credentialsFile": "posco-kr-flow_cred.json"
+        }
+    }
+}
